@@ -14,9 +14,6 @@ Calendar Integration: Keep track of lease start and end dates, STR bookings, and
 Document Storage: Safely store property-related documents, lease agreements, and maintenance records.
 Installation
 Download the latest release.
-Follow the INSTALL.md guidelines for a step-by-step installation process.
-Usage
-Please refer to the USER_GUIDE.md included in the repository to get started with ManageMate.
 
 Contributing
 We welcome contributions from the open-source community! Please check the CONTRIBUTING.md guide to learn more about submitting pull requests, suggesting features, and reporting bugs.
@@ -33,4 +30,4 @@ ManageMate was built with love by the community. Special thanks to all our contr
 
 🏠 Happy Property Managing with ManageMate! 🏠
 
-Note: Replace # with the appropriate links to relevant sections, forums, or pages in your repository or project's website.
+
