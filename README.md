@@ -22,7 +22,7 @@ License
 ManageMate is licensed under the GNU General Public License v3.0. By using, distributing, or contributing to this project, you agree to the terms and conditions of this license. See the LICENSE file for details.
 
 Support
-Documentation: Check out our detailed Wiki and FAQ section.
+
 Issues: If you encounter any issues or have feature requests, please submit them here.
 Community: Join our community forum to discuss features, share your experiences, and get help.
 Acknowledgments
